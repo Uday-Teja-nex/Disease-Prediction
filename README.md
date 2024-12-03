@@ -12,7 +12,6 @@ A comprehensive disease prediction system that utilizes multiple machine learnin
 - **Symptom-Based Analysis**: Processes multiple symptoms for accurate disease prediction
 - **Performance Metrics**: Comprehensive evaluation using accuracy, precision, recall, and F1-score
 - **Cross-Validation**: K-fold cross-validation for robust model evaluation
-- **Interactive Interface**: User-friendly CLI/GUI for easy symptom input
 
 ## Citation
 ```bibtex
