@@ -27,7 +27,7 @@ A comprehensive disease prediction system that utilizes multiple machine learnin
 
 ## Contact
 - Uday Teja K
-- Email: applleissteve1976@gmail.com
+- Email: appleissteve1976@gmail.com
 - LinkedIn: linkedin.com/uday-teja
 
 ## Acknowledgments
